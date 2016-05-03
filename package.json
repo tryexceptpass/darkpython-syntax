@@ -1,0 +1,16 @@
+{
+  "name": "darkpython-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Python-friendly Syntax for use with a Dark Theme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "python"
+  ],
+  "repository": "https://github.com/tryexceptpass/darkpython-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=2.0.0"
+  }
+}

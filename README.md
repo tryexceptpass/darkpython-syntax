@@ -1,5 +1,5 @@
-# obsidian-syntax theme
+# darkpython-syntax theme
 
-A short description of your theme.
+A syntax for use with Python code in a dark theme that sports green keywords, blue methods and orange strings.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Screenshot](https://raw.githubusercontent.com/tryexceptpass/darkpython-syntax/master/darkpython.png)

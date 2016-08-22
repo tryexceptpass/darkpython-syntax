@@ -8,9 +8,32 @@
     "theme",
     "python"
   ],
-  "repository": "https://github.com/tryexceptpass/darkpython-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tryexceptpass/darkpython-syntax.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
+  },
+  "readme": "# darkpython-syntax theme\n\nA syntax for use with Python code in a dark theme that sporting green keywords, blue methods and orange strings.\n\n![Screenshot](https://raw.githubusercontent.com/tryexceptpass/darkpython-syntax/master/darkpython.png)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/tryexceptpass/darkpython-syntax/issues"
+  },
+  "homepage": "https://github.com/tryexceptpass/darkpython-syntax#readme",
+  "_id": "darkpython-syntax@0.2.0",
+  "_shasum": "70140252186f7e50b37e67d91be4f777a4a40572",
+  "_resolved": "file:..\\d-11643-9028-14eg5fs\\package.tgz",
+  "_from": "..\\d-11643-9028-14eg5fs\\package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
   }
 }

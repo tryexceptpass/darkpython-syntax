@@ -75,7 +75,7 @@ atom-text-editor .search-results .syntax--marker.current-result .region{
     color: @syntax-text-color;
   }
 
-  &.syntax--operator.logical {
+  &.syntax--operator.syntax--logical {
       color: @green;
   }
 
@@ -175,7 +175,7 @@ atom-text-editor .search-results .syntax--marker.current-result .region{
     }
   }
 
-  &.section.embedded {
+  &.syntax--section.syntax--embedded {
     color: darken(@red, 10%);
   }
 
@@ -220,7 +220,7 @@ atom-text-editor .search-results .syntax--marker.current-result .region{
     text-decoration: underline;
   }
 
-  &syntax--.other.syntax--attribute-name {
+  &.syntax--other.syntax--attribute-name {
     color: @orange;
 
     &.syntax--id {
